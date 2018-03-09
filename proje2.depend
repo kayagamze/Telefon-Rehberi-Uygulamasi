@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1495372173 source:c:\users\cansu ecevit\desktop\codeblocks Çalýþmalar\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1495450775 source:c:\users\cansu ecevit\desktop\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
